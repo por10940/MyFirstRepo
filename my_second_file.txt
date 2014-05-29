@@ -1,0 +1,3 @@
+second file for git exercise
+make some changes
+test changin hypothesis
